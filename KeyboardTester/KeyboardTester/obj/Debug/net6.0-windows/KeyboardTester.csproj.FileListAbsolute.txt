@@ -1,0 +1,17 @@
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Debug\net6.0-windows\KeyboardTester.exe
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Debug\net6.0-windows\KeyboardTester.deps.json
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Debug\net6.0-windows\KeyboardTester.runtimeconfig.json
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Debug\net6.0-windows\KeyboardTester.dll
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Debug\net6.0-windows\KeyboardTester.pdb
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.csproj.AssemblyReference.cache
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.Fullsize.resources
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.csproj.GenerateResource.cache
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.AssemblyInfoInputs.cache
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.AssemblyInfo.cs
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.csproj.CoreCompileInputs.cache
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.dll
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\refint\KeyboardTester.dll
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.pdb
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\KeyboardTester.genruntimeconfig.cache
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\obj\Debug\net6.0-windows\ref\KeyboardTester.dll

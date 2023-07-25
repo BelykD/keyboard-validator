@@ -1,0 +1,5 @@
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Release\net6.0-windows\publish\KeyboardTester.exe
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Release\net6.0-windows\publish\KeyboardTester.dll
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Release\net6.0-windows\publish\KeyboardTester.runtimeconfig.json
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Release\net6.0-windows\publish\KeyboardTester.pdb
+C:\Users\Belyk\Desktop\Keyboard Tester Project\KeyboardTester\KeyboardTester\bin\Release\net6.0-windows\publish\KeyboardTester.deps.json
